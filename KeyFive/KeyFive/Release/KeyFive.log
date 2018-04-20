@@ -1,0 +1,8 @@
+﻿  KeyFive.cpp
+KeyFive.cpp(22): warning C4138: '*/' found outside of comment
+  RtMidi.cpp
+  Generating code
+  All 315 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  KeyFive.vcxproj -> E:\Content\Software\TSamartzidis\Gits\keyfive\KeyFive\Release\KeyFive.exe
+  KeyFive.vcxproj -> E:\Content\Software\TSamartzidis\Gits\keyfive\KeyFive\Release\KeyFive.pdb (Full PDB)
